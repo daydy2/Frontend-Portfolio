@@ -1,0 +1,15 @@
+export const name = 'Daniel Ige'
+export const innovative = '...a full-stack developer crafting seamless web applications with clean, efficient code.'
+export const resume = "Download resume"
+export const wanna = "Wanna know me?"
+export const about = "I’m a passionate full-stack developer building responsive, user-friendly web apps. I thrive on solving real-world problems with code. Beyond programming, I enjoy exploring tech trends, following software communities on Twitter, and keeping up with Manchester United. Video games and music remain my creative escapes."
+export const designstuff = "I develop web applications using modern frontend and backend technologies, including React, Node.js, Express, and SQL/NoSQL databases. My work emphasizes performance, scalability, and excellent user experience."
+export const mywork = 'See my work'
+export const writestuff = 'I also write about development, tech trends, and software best practices, sharing insights from my coding journey.'
+export const myarticles = "Read my articles"
+export const contact = "Contact me"
+export const behancelink = 'https://www.behance.net/tobilobaowoade'
+export const linkedlnlink = 'https://www.linkedin.com/in/daniel-olumide-ige/'
+export const instagramlink = 'https://www.instagram.com/kaykeed_/'
+export const twitterlink = 'https://twitter.com/Kaykeed_'
+export const mediumlink = 'https://medium.com/@qudusowoade'
