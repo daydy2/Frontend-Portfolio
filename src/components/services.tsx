@@ -1,7 +1,4 @@
-import React, { useState } from "react";
-import { behancelink, designstuff, mediumlink, myarticles, mywork, writestuff } from "../constants";
-import arrow from "../img/arrow.svg";
-import { Divider } from "@mui/material";
+import { useState } from "react";
 import serverly from "../img/severly.png";
 import buyinsurance from "../img/buyinsurance.png";
 import solarsurvey from "../img/solarsurvey.png";

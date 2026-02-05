@@ -1,14 +1,7 @@
-import React from "react";
 import { innovative, resume } from "../constants";
-import { motion } from "framer-motion";
-// import ux from "../img/ux.svg";
-// import ux from "../img/Clip path group.svg";
-// import ux from "../img/Group.svg";
-import ux from "../img/Group 449.svg";
 import fdev from "../img/fdev.svg";
 import bdev from "../img/bdev.svg";
 import interfaceimg from "../img/Group 450.svg";
-import lcd from "../img/Group 451.svg";
 const Hero = () => {
 	return (
 		<div>
